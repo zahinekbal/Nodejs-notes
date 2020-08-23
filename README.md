@@ -1,7 +1,7 @@
 ### Nodejs Notes
 
-. NodeJs Modules
-. Blocking vs Nonblocking
+#NodeJs Modules
+#Blocking vs Nonblocking
 . Seving HTML files
 . Custom Backend
 . NPM + usage
